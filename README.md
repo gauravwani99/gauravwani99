@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Gaurav Wani, a passionate student with a love for coding and technology.<br><br>🚀 Currently pursuing Btech in Electrical Engineering at IIT Ropar , diving deep into the world of computer science and software engineering.<br><br>💻 I enjoy working on a variety of projects, ranging from web development and mobile apps to data science and machine learning. Always eager to learn and explore new technologies!<br><br>🌱 Constantly expanding my skill set through online courses, hackathons, and personal projects. Believe in the power of continuous learning and growth.<br><br>🔧 Proficient in languages and tools like Java, Python, HTML/CSS, JavaScript, Git, and more. Always striving to improve and refine my coding abilities.
+👋 coding until AI takes over
 
 
 ## 🌐 Socials:
